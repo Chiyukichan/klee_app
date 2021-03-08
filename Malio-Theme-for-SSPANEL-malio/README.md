@@ -1,14 +1,8 @@
-# 此项目本是个付费主题，可是他们放弃了，我不想 Malio 就此消失就放到了这里
-# 不能删改页面底部的 Powered by SSPANEL，不能删改staff页面的任何信息。
+# 请勿泄露源码给他人，当你让他人为你debug或进行其他操作时，切勿让他访问你网站的全部代码，尤其是不认识的人。泄露源码对你我都没好处。
+# 不能删改页面底部的 Powered by SSPANEL.，不能删改staff页面的任何信息。
 ## 删除Powered by SSPANEL可能会导致你的网站被D，现在 Theme by editXY 可以随意去掉
 
 本主题包含了SSPANEL的完整代码，需要删除原来的面板，然后全新安装（数据库通用），操作前请备份面板
-
-## 贡献
-
-[提出新想法 & 提交 Bug](https://github.com/Cadwalader307/Malio-Theme-for-SSPANEL/issues/new) | [改善文档 & 投稿](https://github.com/Cadwalader307/Malio-Theme-for-SSPANEL/Wiki) | [Fork & Pull Request](https://github.com/Cadwalader307/Malio-Theme-for-SSPANEL/pulls)
-
-由于原开发团队已经放弃Malio主题，因此此项目欢迎各种贡献，包括但不限于改进，新功能，文档和代码改进，问题和错误报告。
 
 ## Wiki
 [详细安装教程](https://gitlab.com/maxitio/malio-theme-for-sspanel/wikis/详细安装教程)
@@ -29,11 +23,13 @@
 需要去.config.php打开订阅记录的开关才会记录订阅
 
 ## Telegram
-主题交流群 [@章鱼哥的SSPanel之家](https://t.me/woaizyg)
+想进主题交流群请联系 [@editXY](https://t.me/editXY) 获取交流群链接
+
+[TG频道](https://t.me/malio_for_sspanel) ，有新功能或优化都会在频道里发广播，所以请一定要关注频道
 
 ## AFF
-推荐的支付平台👉 [BitPayX](https://merchants.mugglepay.com/user/register?ref=MP909FA42B0251) ，支持数字货币、支付宝、微信，提款数字货币
+推荐的支付平台👉 [BitPayX](https://merchants.mugglepay.com/user/register?ref=MP8DF1B016220D) ，支持数字货币、支付宝、微信，提款数字货币
 
 ## CREDIT
-基于 [Anankke](https://github.com/Anankke)，[galaxyq](https://github.com/galaxychuck)，[dumplin](https://github.com/dumplin233)，[Rin SAMA](https://github.com/mxihan)，[Miku](https://github.com/xcxnig)，[Tony Zou](https://github.com/ZJY2003)，[Nymph](https://github.com/laurieryayoi) 维护的 [SSPanel-Uim](https://github.com/Anankke/SSPanel-Uim) 修改
+基于 [rico](https://github.com/rico93) 和 [GeekQu](https://github.com/GeekQu) 维护的 [ss-panel-v3-mod_Uim](https://github.com/rico93/ss-panel-v3-mod_Uim) 修改
 
